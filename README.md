@@ -19,13 +19,6 @@ DB_PASS=YOURPASSWORD
 ```
 
 
-## Сборка
-
-```bash
-  npm install
-  npm run build 
-```
-
 ## Библиотеки
 
 - express
